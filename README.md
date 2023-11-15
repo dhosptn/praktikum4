@@ -1,7 +1,7 @@
 
 | Left                    |  Center        | Right
 |:------------------------|:--------------:|---------------:|
-|**Ahmad Ridho Septian**  | **312310447**  |  **TI.23.A5 ** |
+|**Ahmad Ridho Septian**  | **312310447**  |  **TI.23.A5** |
 
 # Latihan 1
 
