@@ -10,9 +10,9 @@
 
 ### Input
 
-''''
+````
 my_list = [1, 2, 3, 4, 5]
-print("Elemen ke-3:", my_list[2])
+print("Elemen ke-3:", my_list[2])# Mengambil nilai elemen ke-2 sampai elemen ke-4
 subset_list = my_list[1:4]
 print("Nilai elemen ke-2 sampai elemen ke-4:", subset_list)
 last_element = my_list[-1]
@@ -22,6 +22,7 @@ print("Setelah mengubah elemen ke-4:", my_list)
 my_list[3:] = [60, 70]
 print("Setelah mengubah nilai elemen ke-4 sampai elemen terakhir:", my_list)
 A = [1, 2, 3, 4, 5]
+# Ambil 2 bagian dari list pertama (A) dan jadikan list kedua (B)
 B = A[:2]
 print("List B:", B)
 B.append("Hello")
@@ -31,7 +32,9 @@ print("List B:", B)
 C = B + A
 print("List C (gabungan A dan B):", C)
 
-''''
+
+
+````
 
 ### Output
 
