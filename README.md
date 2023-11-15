@@ -1,8 +1,8 @@
-| Left    |  Center                 | 
-|:--------|:-----------------------:|
-| Nama    | **Ahmad Ridho Septian** | 
-| NIM     | **312310447             |  
-| Kelas   | **TI.23.A5              |  
+| Left             |  Center                              | 
+|:-----------------|:------------------------------------:|
+| Nama             | **Ahmad Ridho Septian**              | 
+| NIM              | **312310447**                        |  
+| Kelas            | **TI.23.A5**                         |  
 
 # Latihan 1
 
