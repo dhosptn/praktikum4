@@ -1,22 +1,12 @@
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
+````
   //------------------------------------\\
  //------------------------------------- \\
 || NAMA  : Ahmad Ridho Septian            ||
 || NIM   : 312310447                      ||
 || KELAS : TI.23.A5                       ||
  \\------------------------------------- //
-  \\----------------------------------- //
-</body>
-</html>
-
+  \\----------------------------- ----- //
+````
 # Latihan 1
 
 ## Input
