@@ -32,8 +32,6 @@ print("List B:", B)
 C = B + A
 print("List C (gabungan A dan B):", C)
 
-
-
 ````
 
 ### Output
@@ -54,8 +52,8 @@ print("List C (gabungan A dan B):", C)
 
 ## Input
 
-''''
 
+````
 # LIST
 
 nama = []
@@ -99,7 +97,7 @@ no += 1
  print("| {0:>2} | {1:<18} | {2:>8} | {3:>6} | {4:>5} | {5:>5} | {6:>7} |".format(no, nama, nim, Tugas, UTS, UAS, nilaiAkhir))
 print("+----+-----------------------+--------+--------+-------+-------+---------+")
 
-''''
+````
 
 ### Output
 
