@@ -1,4 +1,12 @@
-````
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
   //------------------------------------\\
  //------------------------------------- \\
 || NAMA  : Ahmad Ridho Septian            ||
@@ -6,7 +14,9 @@
 || KELAS : TI.23.A5                       ||
  \\------------------------------------- //
   \\----------------------------------- //
-````
+</body>
+</html>
+
 # Latihan 1
 
 ## Input
@@ -67,7 +77,7 @@ print("List C (gabungan A dan B):", C)
 1. List pertama (list_A) diinisialisasi dengan nilai [1, 2, 3, 4, 5].
 2. Dua bagian pertama dari list_A diambil dan disalin ke list_B menggunakan slicing (list_A[:2]).
 3. Tiga nilai string ("string1" dan "string2") ditambahkan ke list_B menggunakan metode append.
-4. Tiga nilai (6, 7, dan 8) ditambahkan ke list_B menggunakan metode extend.
+4. Tiga nilai (3, 4, dan 5) ditambahkan ke list_B menggunakan metode extend.
 5. List B (list_B) sekarang berisi dua bagian pertama dari list A, dua nilai string, dan tiga nilai tambahan.
 6. List B (list_B) kemudian digabungkan ke list A (list_A) menggunakan metode extend.
 7. Hasilnya dicetak untuk dilihat.
